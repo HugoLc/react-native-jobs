@@ -42,7 +42,6 @@ const Home = () => {
           <Nearbyjobs />
         </View>
       </ScrollView>
-      <Text style={{ color: "red" }}>Home</Text>
     </SafeAreaView>
   );
 };
